@@ -70,7 +70,9 @@ footer {
     border: 5px rgb(152,173,166) solid;
 }
 
-
+#press img:hover {
+    border: 5px rgb(111,127,122) solid;
+}
 
 
 
