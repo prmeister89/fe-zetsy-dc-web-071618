@@ -57,6 +57,10 @@ footer {
     background: #fff;
 }
 
+.small {
+    font-size: 0.8em;
+}
+
 #featured img {
     border: 5px rgb(152,173,166) solid;
 }
