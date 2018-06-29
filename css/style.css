@@ -52,6 +52,11 @@ p {
     padding: 1px;
 }
 
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
+}
+
 footer {
     text-align: right;
     background: #fff;
